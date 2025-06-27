@@ -54,3 +54,5 @@ function sanitize(str) {
     return map[char];
   });
 }
+
+window.post = post;
